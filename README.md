@@ -1,4 +1,4 @@
-# iot-ufrn - Notas de aula da disciplina ECT2701 (Internete das Coisas)
+# Notas de aula da disciplina ECT2701 (Internet das Coisas)
 
 Códigos do curso de Internet das Coisas da UFRN
 
