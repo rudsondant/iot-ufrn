@@ -12,6 +12,6 @@ Códigos do curso de Internet das Coisas da UFRN
 
 ## Aulas Práticas
 
-* Projeto 1 - Criando uma página cliente
+* Projeto 1 - [Criando uma página cliente](https://github.com/rudsondant/iot-ufrn/tree/master/cliente)
 * Projeto 2 - Adicionando gráficos e automação a sua página
 * Projeto 3 - Adicionando um sensor a sua página e alterando os gráficos
