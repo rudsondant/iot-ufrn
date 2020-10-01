@@ -6,5 +6,12 @@ Códigos do curso de Internet das Coisas da UFRN
 
 ## Aulas Teóricas
 
+* Conceitos sobre Internet
+* A camada de aplicação da Internet
+
 
 ## Aulas Práticas
+
+* Projeto 1 - Criando uma página cliente
+* Projeto 2 - Adicionando gráficos e automação a sua página
+* Projeto 3 - Adicionando um sensor a sua página e alterando os gráficos
